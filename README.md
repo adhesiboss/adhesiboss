@@ -1,6 +1,5 @@
 ## Hi there 👋
-<a href="https://app.daily.dev/raulruiz"><img src="https://api.daily.dev/devcards/v2/UvsgSZBtNSNIEr4L2CkPv.png?type=default&r=fr1" width="356" alt="Raúl Ruiz's Dev Card"/></a>
-<!--**adhesiboss/adhesiboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/raulruiz"><img src="https://api.daily.dev/devcards/v2/UvsgSZBtNSNIEr4L2CkPv.png?type=wide&r=v20" width="652" alt="Raúl Ruiz's Dev Card"/></a><!--**adhesiboss/adhesiboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
