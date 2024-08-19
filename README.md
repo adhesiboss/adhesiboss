@@ -1,6 +1,4 @@
 ## Hi there 👋
-
----
 <a href="https://app.daily.dev/raulruiz">
     <img src="https://api.daily.dev/devcards/v2/UvsgSZBtNSNIEr4L2CkPv.png?type=wide&r=v20" width="652" alt="Raúl Ruiz's Dev Card"/>
 </a>
@@ -40,10 +38,8 @@ I hold diplomas in **UX/UI** and **Crossmedia**, which have equipped me with the
 
 - I’m passionate about learning new technologies and continuously enhancing my skill set. I thrive on solving complex problems and contributing to meaningful projects.
 
+
 ---
-
-
-
 <!--
 ## Additional Ideas
 
