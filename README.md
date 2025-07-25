@@ -5,7 +5,7 @@
 
 ### I'm Raúl Ruiz, a passionate DevUI at 2Brains 🚀
 
-I’m currently working at **2Brains**, a company providing digital solutions for the financial sector. With over two years of experience in this role, I specialize in **UI development**, focusing on **layout design**, **system design**, and creating **user interfaces** for banking applications.
+I’m currently working at **2Brains**, a company providing digital solutions for the financial sector. With extensive experience in this role, I specialize in **UI development**, focusing on **layout design**, **system design**, and creating **user interfaces** for banking applications.
 
 ### 🎓 Education and Skills
 
