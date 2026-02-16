@@ -1,7 +1,6 @@
 ## Hi there 👋
 <a href="https://app.daily.dev/raulruiz">
-    <img src="https://api.daily.dev/devcards/v2/UvsgSZBtNSNIEr4L2CkPv.png?type=wide&r=v20" width="652" alt="Raúl Ruiz's Dev Card"/>
-</a>
+<img src="https://api.daily.dev/devcards/v2/UvsgSZBtNSNIEr4L2CkPv.png?type=default&r=n53" width="356" alt="Raúl Ruiz's Dev Card"/></a>
 
 # Hi, I'm Raúl Ruiz 👋  
 ### Senior Frontend & Mobile Engineer | React Native • React • TypeScript
