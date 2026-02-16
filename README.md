@@ -3,36 +3,69 @@
     <img src="https://api.daily.dev/devcards/v2/UvsgSZBtNSNIEr4L2CkPv.png?type=wide&r=v20" width="652" alt="Raúl Ruiz's Dev Card"/>
 </a>
 
-### I'm Raúl Ruiz, a passionate DevUI at 2Brains 🚀
+# Hi, I'm Raúl Ruiz 👋  
+### Senior Frontend & Mobile Engineer | React Native • React • TypeScript
 
-I’m currently working at **2Brains**, a company providing digital solutions for the financial sector. With extensive experience in this role, I specialize in **UI development**, focusing on **layout design**, **system design**, and creating **user interfaces** for banking applications.
+I’m a Chile-based Frontend & Mobile Engineer focused on building scalable, high-performance web and mobile applications.
 
-### 🎓 Education and Skills
+I specialize in **React Native**, **React**, and modern frontend architectures, with strong attention to user experience, performance, and clean code principles. I enjoy turning complex requirements into intuitive and reliable digital products.
 
-I hold diplomas in **UX/UI** and **Crossmedia**, which have equipped me with the skills to develop high-quality web and multimedia projects. Here’s a quick overview of my technical skills:
+---
 
-- **Frontend Development:** ReactNative, JavaScript, HTML, CSS, Tailwind, Sass, Bootstrap, Responsive Design.
-- **Version Control:** Git, SonarQube.
-- **UI/UX Tools:** Storybook, Figma, Design System.
-- **Software Tools:** Visual Studio Code, Django CMS, WordPress, After Effects, Photoshop.
-- **Browser Developer Tools**: For debugging and optimizing web applications.
+## 🚀 What I Do
 
-### 💼 What I Do at 2Brains
+- 📱 Build production-ready mobile applications with React Native  
+- 🌐 Develop scalable web platforms using React & TypeScript  
+- 🧩 Design reusable component systems and maintain UI consistency  
+- ⚙️ Integrate frontend applications with REST APIs and cloud services  
+- 📊 Contribute to technical estimations, architecture decisions, and agile planning  
+- 🔍 Ensure code quality through best practices and maintainable structures  
 
-- **UI Development:** I focus on **layout design**, **system design**, and crafting **user interfaces** that enhance the banking experience.
-- **Cross-functional Collaboration:** Work closely with designers, product managers, and developers to deliver seamless digital solutions.
-- **Continuous Learning:** I stay updated with the latest trends in **UI/UX** and web development to continuously improve my skill set.
+---
 
-### 💬 Ask Me About
+## 🛠 Tech Stack
 
-- **UI/UX Design:** My experience in creating intuitive, user-friendly designs.
-- **Frontend Development:** Best practices in ReactNative, JavaScript, and responsive design.
-- **Web Tools:** How I leverage tools like Figma, Storybook, and Browser Developer Tools in my workflow.
+### Frontend & Mobile
+- React Native  
+- React  
+- TypeScript  
+- JavaScript (ES6+)  
+- HTML5 / CSS3  
+- Tailwind / Sass  
 
-### 📫 Get in Touch
+### Architecture & Quality
+- Component-driven architecture  
+- Design Systems  
+- Clean Code & SOLID principles  
+- Git & collaborative workflows  
 
-- LinkedIn: [linkedin.com/in/adhesiboss](https://www.linkedin.com/in/adhesiboss/)
-- Email: [vrap3@hotmail.com](mailto:vrap3@hotmail.com)
+### Tools
+- Figma  
+- Storybook  
+- VS Code  
+- Postman  
+- Browser DevTools  
+
+---
+
+## 🎯 Focus Areas
+
+- Scalable frontend architecture  
+- Mobile performance optimization  
+- UI systems & product consistency  
+- Cloud-integrated applications  
+- Continuous technical growth  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/adhesiboss/  
+- 📧 Email: vrap3@hotmail.com  
+
+---
+
+> Building digital experiences that combine performance, clarity, and purpose.
 
 ### ⚡ Fun Fact
 
